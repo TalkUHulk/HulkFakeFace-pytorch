@@ -1,0 +1,14 @@
+opencv_contrib_python==4.4.0.44
+torch==1.6.0
+torchvision==0.7.0
+requests==2.22.0
+tqdm==4.50.0
+warmup_scheduler==0.3.2
+matplotlib==3.3.2
+pymilvus==0.2.14
+torchviz==0.0.1
+numpy==1.16.6
+apex==0.9.10dev
+Pillow==8.0.1
+scikit_learn==0.23.2
+tensorboardX==2.1
