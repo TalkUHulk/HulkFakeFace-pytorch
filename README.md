@@ -1,9 +1,9 @@
 
-# HulkFaceZoo-pytorch
+# HulkFakeFace-pytorch
 ![TalkUHulk](https://img.shields.io/badge/TalkUHulk-Python3-green)  
 ## 简介
 
-HulkFaceZoo为个人的人脸相关项目实践学习库，主要包括检测（retinaface）+识别（arcface）+相关应用（如颜值打分、检索），相关代码和预训练模型都可在本项目中找到。
+HulkFakeFace为个人的人脸相关项目实践学习库，主要包括检测（retinaface）+识别（arcface）+相关应用（如颜值打分、检索），相关代码和预训练模型都可在本项目中找到。
 
 🔥水平有限，有错误请及时指出，共同进步学习～
 
