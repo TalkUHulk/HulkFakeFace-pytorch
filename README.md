@@ -22,22 +22,22 @@ HulkFaceZoo为个人的人脸相关项目实践学习库，主要包括检测（
 
  - **backbone**: *mobilenet-v2 ｜ resnet50*
  - **datasets**: *widerface*
- - **addition**: *在原始网络中加入性别判断，目前仅在resnet50中支持，*[cfg_re50.gender=True](https://github.com/TalkUHulk/HulkFaceZoo-pytorch/RetinaFace/data/config.py)
+ - **addition**: *在原始网络中加入性别判断，目前仅在resnet50中支持，*[cfg_re50.gender=True](https://github.com/TalkUHulk/HulkFakeFace-pytorch/blob/master/RetinaFace/data/config.py)
  - **tensorboard**: 
  
-  ![logs](https://github.com/TalkUHulk/HulkFaceZoo-pytorch/logs/RetinaFace.jpg)
+  ![logs](https://github.com/TalkUHulk/HulkFakeFace-pytorch/blob/master/logs/RetinaFace.jpg)
   
  - **FDDB ROC**:
  
-  ![ROC](https://github.com/TalkUHulk/HulkFaceZoo-pytorch/RetinaFace/evalution/ROC.png)
+  ![ROC](https://github.com/TalkUHulk/HulkFakeFace-pytorch/blob/master/logs/ROC.png)
   
  - **demo**:
  
-  ![girls](https://github.com/TalkUHulk/HulkFaceZoo-pytorch/RetinaFace/results/girls.jpg)
+  ![girls](https://github.com/TalkUHulk/HulkFakeFace-pytorch/blob/master/RetinaFace/results/girls.jpg)
   
-  ![nba](https://github.com/TalkUHulk/HulkFaceZoo-pytorch/RetinaFace/results/nba.jpg)
+  ![nba](https://github.com/TalkUHulk/HulkFakeFace-pytorch/blob/master/RetinaFace/results/nba.jpg)
   
-  ![stars](https://github.com/TalkUHulk/HulkFaceZoo-pytorch/RetinaFace/evalution/stars.jpg)
+  ![stars](https://github.com/TalkUHulk/HulkFakeFace-pytorch/blob/master/RetinaFace/evalution/stars.jpg)
   
  ## GenderClassify
  - **简介**: *主要用来标注widerface，为RetinaFace with gender制作训练集*
@@ -51,9 +51,9 @@ HulkFaceZoo为个人的人脸相关项目实践学习库，主要包括检测（
  | ------ |  
  | 0.9943 |  
  - **tensorboard**:   
- ![Loss](https://github.com/TalkUHulk/HulkFaceZoo-pytorch/logs/ArcFace_Loss.jpg)
+ ![Loss](https://github.com/TalkUHulk/HulkFakeFace-pytorch/blob/master/logs/ArcFace_Loss.jpg)
  
- ![Arc](https://github.com/TalkUHulk/HulkFaceZoo-pytorch/logs/ArcFace_Acc.jpg)
+ ![Arc](https://github.com/TalkUHulk/HulkFakeFace-pytorch/blob/master/logs/ArcFace_Acc.jpg)
  
  ## Beauty
   - **loss**: train with arcface and pretrained with MarginRankingLoss
@@ -64,9 +64,9 @@ HulkFaceZoo为个人的人脸相关项目实践学习库，主要包括检测（
  | ------ |  
  | 0.277 |  
   - **tensorboard**:   
-   ![Train](https://github.com/TalkUHulk/HulkFaceZoo-pytorch/logs/Beauty_train.jpg)  
+   ![Train](https://github.com/TalkUHulk/HulkFakeFace-pytorch/blob/master/logs/Beauty_train.jpg)  
    
- ![Val](https://github.com/TalkUHulk/HulkFaceZoo-pytorch/logs/Beauty_val.jpg)
+ ![Val](https://github.com/TalkUHulk/HulkFakeFace-pytorch/blob/master/logs/Beauty_val.jpg)
 
  
  ## Retrieval 
@@ -78,11 +78,11 @@ Thanks to dataset provider:Copyright(c) 2018, seeprettyface.com, BUPT_GWY contri
  - **milvus**: [向量搜索引擎](https://www.milvus.io/cn/)
  - **tensorboard**:   
  
- ![ab](https://github.com/TalkUHulk/HulkFaceZoo-pytorch/FaceRetrieval/result_ab.jpg)  
+ ![ab](https://github.com/TalkUHulk/HulkFakeFace-pytorch/blob/master/FaceRetrieval/result_ab.jpg)  
  
- ![st](https://github.com/TalkUHulk/HulkFaceZoo-pytorch/FaceRetrieval/result_st.jpg)
+ ![st](https://github.com/TalkUHulk/HulkFakeFace-pytorch/blob/master/FaceRetrieval/result_st.jpg)
  
- ![tly](https://github.com/TalkUHulk/HulkFaceZoo-pytorch/FaceRetrieval/result_tongliya.jpg)
+ ![tly](https://github.com/TalkUHulk/HulkFakeFace-pytorch/blob/master/FaceRetrieval/result_tongliya.jpg)
 
 
 ## References 
