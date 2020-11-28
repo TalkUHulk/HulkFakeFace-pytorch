@@ -31,7 +31,7 @@ HulkFaceZoo为个人的人脸相关项目实践学习库，主要包括检测（
   
  - **FDDB ROC**:
  
-  ![ROC](https://github.com/TalkUHulk/HulkFakeFace-pytorch/tree/master/RetinaFace/evalution/ROC.png)
+  ![ROC](https://github.com/TalkUHulk/HulkFakeFace-pytorch/blob/master/RetinaFace/evalution/ROC.png)
   
  - **demo**:
  
