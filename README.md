@@ -80,7 +80,7 @@ Thanks to dataset provider:Copyright(c) 2018, seeprettyface.com, BUPT_GWY contri
  - **milvus**: [向量搜索引擎](https://www.milvus.io/cn/)
  - **demo**:   
  
- ![ab](https://github.com/TalkUHulk/HulkFakeFace-pytorch/blob/master/RetinaFace/results/result_ab.jpg)  
+ ![ab](https://github.com/TalkUHulk/HulkFakeFace-pytorch/blob/master/RetinaFace/result/result_ab.jpg)  
  
  ![st](https://github.com/TalkUHulk/HulkFakeFace-pytorch/blob/master/FaceRetrieval/result/result_st.jpg)
  
