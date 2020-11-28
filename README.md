@@ -35,11 +35,11 @@ HulkFaceZoo为个人的人脸相关项目实践学习库，主要包括检测（
   
  - **demo**:
  
-  ![girls](https://github.com/TalkUHulk/HulkFakeFace-pytorch/tree/master/RetinaFace/results/girl.jpg)
+  ![girls](https://github.com/TalkUHulk/HulkFakeFace-pytorch/blob/master/RetinaFace/results/girl.jpg)
   
-  ![nba](https://github.com/TalkUHulk/HulkFakeFace-pytorch/tree/master/RetinaFace/results/nba.jpg)
+  ![nba](https://github.com/TalkUHulk/HulkFakeFace-pytorch/blob/master/RetinaFace/results/nba.jpg)
   
-  ![stars](https://github.com/TalkUHulk/HulkFakeFace-pytorch/tree/master/RetinaFace/results/stars.jpg)
+  ![stars](https://github.com/TalkUHulk/HulkFakeFace-pytorch/blob/master/RetinaFace/results/stars.jpg)
   
  ## GenderClassify
  - **简介**: *主要用来标注widerface，为RetinaFace with gender制作训练集*
@@ -76,15 +76,15 @@ HulkFaceZoo为个人的人脸相关项目实践学习库，主要包括检测（
 ```
 Thanks to dataset provider:Copyright(c) 2018, seeprettyface.com, BUPT_GWY contributes the dataset.
 ```
- - **datasets**[明星人脸](http://www.seeprettyface.com/mydataset_page3.html#star)
+ - **datasets**: [明星人脸](http://www.seeprettyface.com/mydataset_page3.html#star)
  - **milvus**: [向量搜索引擎](https://www.milvus.io/cn/)
  - **demo**:   
  
- ![ab](https://github.com/TalkUHulk/HulkFakeFace-pytorch/tree/master/FaceRetrieval/result/result_ab.jpg)  
+ ![ab](https://github.com/TalkUHulk/HulkFakeFace-pytorch/blob/master/RetinaFace/results/result_ab.jpg)  
  
- ![st](https://github.com/TalkUHulk/HulkFakeFace-pytorch/tree/master/FaceRetrieval/result/result_st.jpg)
+ ![st](https://github.com/TalkUHulk/HulkFakeFace-pytorch/blob/master/FaceRetrieval/result/result_st.jpg)
  
- ![tly](https://github.com/TalkUHulk/HulkFakeFace-pytorch/tree/master/FaceRetrieval/result/result_tongliya.jpg)
+ ![tly](https://github.com/TalkUHulk/HulkFakeFace-pytorch/blob/master/FaceRetrieval/result/result_tongliya.jpg)
 
 
 ## References 
